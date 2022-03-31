@@ -4,35 +4,39 @@
     "url": "https://www.sdm.go.kr/index.do",
     "icon": "https://favicons.githubusercontent.com/www.sdm.go.kr",
     "slug": "sdm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1608,
     "timeDay": 1608,
     "timeWeek": 1608,
     "timeMonth": 1608,
     "timeYear": 1608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 1
+    }
   },
   {
     "name": "lll",
     "url": "http://www.sdm.go.kr/lll/user/home.do",
     "icon": "https://favicons.githubusercontent.com/www.sdm.go.kr",
     "slug": "lll",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1089,
     "timeDay": 1089,
     "timeWeek": 1089,
     "timeMonth": 1089,
     "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   }
 ]
