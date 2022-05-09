@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.sdm.go.kr",
     "slug": "sdm",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.87%",
-    "time": 1868,
-    "timeDay": 1907,
-    "timeWeek": 1848,
-    "timeMonth": 1914,
-    "timeYear": 1868,
+    "uptimeYear": "99.88%",
+    "time": 1867,
+    "timeDay": 1837,
+    "timeWeek": 1850,
+    "timeMonth": 1916,
+    "timeYear": 1867,
     "dailyMinutesDown": {
       "2022-04-25": 48,
       "2022-03-31": 20
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1067,
-    "timeDay": 1062,
+    "time": 1068,
+    "timeDay": 1112,
     "timeWeek": 1081,
     "timeMonth": 1086,
-    "timeYear": 1067,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2022-03-31": 20
     }
