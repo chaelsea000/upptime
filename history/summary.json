@@ -2,7 +2,7 @@
   {
     "name": "sdm",
     "url": "https://www.sdm.go.kr/index.do",
-    "icon": "https://favicons.githubusercontent.com/www.sdm.go.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sdm.go.kr.ico",
     "slug": "sdm",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1898,
-    "timeDay": 1943,
-    "timeWeek": 1926,
-    "timeMonth": 1947,
-    "timeYear": 1898,
+    "time": 1900,
+    "timeDay": 2157,
+    "timeWeek": 1934,
+    "timeMonth": 1960,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2022-04-25": 48,
       "2022-03-31": 20
@@ -23,7 +23,7 @@
   {
     "name": "lll",
     "url": "http://www.sdm.go.kr/lll/user/home.do",
-    "icon": "https://favicons.githubusercontent.com/www.sdm.go.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sdm.go.kr.ico",
     "slug": "lll",
     "status": "up",
     "uptime": "99.99%",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1211,
-    "timeDay": 1496,
-    "timeWeek": 1506,
-    "timeMonth": 1537,
-    "timeYear": 1211,
+    "time": 1213,
+    "timeDay": 1516,
+    "timeWeek": 1508,
+    "timeMonth": 1539,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2022-03-31": 20
     }
